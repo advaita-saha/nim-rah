@@ -1,4 +1,4 @@
-# Nim wrapper for rah protocol in FPGA <-> CPU communication
+# Nim wrapper for rah protocol in FPGA ↔ CPU communication
 
 Ref: https://github.com/vicharak-in/rah-bit
 
