@@ -6,7 +6,7 @@ Ref: https://github.com/vicharak-in/rah-bit
 
 Licensed and distributed under either of
 
-* MIT license: [LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT
+* MIT license: [LICENSE-MIT](LICENSE) or http://opensource.org/licenses/MIT
 
 or
 
