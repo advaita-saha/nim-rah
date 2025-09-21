@@ -5,8 +5,9 @@
 #
 # To run these tests, simply execute `nimble test`.
 
-import unittest
+import
+  unittest,
+  ../rah/rah
 
-import nim_rah
 test "can add":
   check add(5, 5) == 10
